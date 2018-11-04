@@ -8,3 +8,4 @@ Repository for digital talent class projects
 4. project 4 : apbn-analysis
 5. in class : tweet-scrapping
 6. project 5 : sql-python
+7. project 6 : sql-python-2
