@@ -9,3 +9,5 @@ Repository for digital talent class projects
 5. in class : tweet-scrapping
 6. project 5 : sql-python
 7. project 6 : sql-python-2
+8. document sentiment analysis
+9. document clustering
